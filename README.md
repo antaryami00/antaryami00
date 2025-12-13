@@ -1,4 +1,4 @@
-# 💫 Antaryami Roul:
+# 💫 Antaryami Roul
 🔭 I’m currently Building modern, secure, and scalable applications using Laravel, React, Livewire.<br>👯 I’m looking to collaborate on Software development projects, Data Science<br>🤝 I’m looking for help with Machine Learning and Artificial Intelligence. <br>🌱 I’m currently learning Python, AI/ML, Expo<br>💬 Ask me about PHP, Laravel, MySQL, Backend Development
 
 
